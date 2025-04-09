@@ -1,19 +1,32 @@
-# Desafio Super Trunfo
+# 🃏 Desafio Super Trunfo (em Python)
 
-Este repositório contém o desenvolvimento do jogo de cartas Super Trunfo como desafio da disciplina de programação.
+Este repositório contém o desenvolvimento do jogo de cartas **Super Trunfo**, criado como desafio da disciplina de Programação.
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+## 💻 Tecnologias utilizadas
 
-## Funcionalidades previstas
-- Seleção de cartas aleatórias
-- Comparação de atributos
-- Definição automática do vencedor
+- Python 3
 
-## Status do projeto
-🚧 Em construção 🚧
+## 🕹️ Funcionalidades
 
-## Como contribuir
-Fique à vontade para sugerir melhorias ou relatar problemas via [issues](https://github.com/ccsantus/Desafio-Super-Trunfo/issues).
+- Sorteio de cartas
+- Escolha de atributo
+- Comparação entre as cartas
+- Determinação automática do vencedor
+
+## 🚧 Status do projeto
+
+✅ Finalizado
+
+## 🙌 Como executar
+
+1. Certifique-se de ter o Python instalado.
+2. Faça o download/clonagem do repositório.
+3. Execute o arquivo `principal.py` com o comando:
+
+```bash
+python principal.py
+```
+
+## 🤝 Como contribuir
+
+Fique à vontade para sugerir melhorias ou relatar problemas por meio de [issues](https://github.com/ccsantus/Desafio-Super-Trunfo/issues).
