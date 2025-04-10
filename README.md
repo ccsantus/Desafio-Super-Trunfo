@@ -21,10 +21,10 @@ Este repositório contém o desenvolvimento do jogo de cartas **Super Trunfo**, 
 
 1. Certifique-se de ter o Python instalado.
 2. Faça o download/clonagem do repositório.
-3. Execute o arquivo `principal.py` com o comando:
+3. Execute o arquivo `super_trunfo.py` com o comando:
 
 ```bash
-python principal.py
+super_trunfo.py
 ```
 
 ## 🤝 Como contribuir
